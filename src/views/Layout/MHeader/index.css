@@ -1,0 +1,8 @@
+.m-header-container {
+  background: #ddd;
+  display: flex;
+  align-items: center;
+  height: 45px; }
+  .m-header-container h5 {
+    width: 100%;
+    text-align: center; }
